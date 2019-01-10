@@ -1113,9 +1113,9 @@ des.js@^1.0.0:
     inherits "^2.0.1"
     minimalistic-assert "^1.0.0"
 
-design-system@./design-system-v1.0.0.tgz:
+design-system@../design-system-v1.0.0.tgz:
   version "1.0.0"
-  resolved "./design-system-v1.0.0.tgz#10845f02e55822247aa1c9d1faf4f4096cffac98"
+  resolved "../design-system-v1.0.0.tgz#10845f02e55822247aa1c9d1faf4f4096cffac98"
 
 destroy@~1.0.4:
   version "1.0.4"
