@@ -1,0 +1,23 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "design-system": "./design-system-v1.0.0.tgz"
+  },
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "html-webpack-plugin": "^3.2.0",
+    "serve": "^10.1.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "scripts": {
+    "build": "webpack",
+    "serve": "serve dist",
+    "start": "webpack-dev-server"
+  }
+}
